@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^10.12",
+        "comodojo/zip": "^2.1"
+    }
+}
